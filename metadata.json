@@ -1,0 +1,9 @@
+{
+    "KPlugin": {
+        "Id": "touchpadgestureblocker",
+        "Name": "Touchpad Gesture Blocker",
+        "Description": "Stops KWin's built-in 3+ finger touchpad gestures so an external gesture tool (Touchégg) can handle them",
+        "EnabledByDefault": true,
+        "License": "GPL-2.0-or-later"
+    }
+}
